@@ -1,0 +1,11 @@
+--------------------
+Date: 2:2:2021
+Time: 15:54
+Phone number: +917676612737
+Message: testing automation
+--------------------
+Date: 2:2:2021
+Time: 16:4
+Phone number: +917353791998
+Message: this is automated whatsapp message
+--------------------
